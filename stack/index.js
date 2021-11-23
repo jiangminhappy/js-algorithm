@@ -1,1 +1,5 @@
-console.log('1111')
+let sttck = []
+stack.push = 1
+stack.push = 2
+
+const item1 = stack.pop()
